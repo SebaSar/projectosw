@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  total: 1
+  descuento: 1
+  estado: MyString
+  cliente_id: 1
+  fecha_venta: 2017-11-17
+  producto_id: 1
+
+two:
+  total: 1
+  descuento: 1
+  estado: MyString
+  cliente_id: 1
+  fecha_venta: 2017-11-17
+  producto_id: 1
